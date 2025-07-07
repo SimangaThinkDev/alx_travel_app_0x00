@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# python_env
+travel_app_env
+
 # C extensions
 *.so
 
