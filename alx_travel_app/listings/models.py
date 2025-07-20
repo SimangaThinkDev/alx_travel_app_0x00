@@ -8,3 +8,8 @@ class Listing(models.Model):
 
     def __str__(self):
         return self.title
+
+class Booking(models.Model):
+    start = models.DateTimeField(auto_now_add=True)
+    end   = models.DateTimeField(auto_now_add=False)
+    
