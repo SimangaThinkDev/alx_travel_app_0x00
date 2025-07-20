@@ -5,6 +5,7 @@ __pycache__/
 
 # python_env
 travel_app_env
+drfenv
 
 # C extensions
 *.so
